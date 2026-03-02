@@ -1,0 +1,13 @@
+﻿{
+  "name": "bot-meta-stuff",
+  "version": "1.0.0",
+  "description": "Bot répertoire de stuffs Dofus Meta",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1"
+  }
+}
